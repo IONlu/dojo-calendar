@@ -1,0 +1,18 @@
+{
+  "name": "dojo-calendar",
+  "homepage": "https://github.com/IONlu/dojo-calendar",
+  "authors": [
+    "Daniel Duton <daniel@duton.lu>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
